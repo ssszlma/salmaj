@@ -71,7 +71,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://salmaj.me/"
+                href="https://salmly.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
