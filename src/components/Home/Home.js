@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import Home2 from "./Home2";
+// import Home2 from "./Home2";
 import Type from "./Type";
 
 function Home() {
@@ -24,7 +24,7 @@ function Home() {
           </Row>
         </Container>
       </Container>
-      <Home2 />
+      // <Home2 />
     </section>
   );
 }
