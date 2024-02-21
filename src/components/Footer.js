@@ -27,16 +27,7 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-            <li className="social-icons">
-              <a
-                href="https://linktr.ee/salmly"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              >
-                <AiOutlineHome />
-              </a>
-            </li>
+
             <li className="social-icons">
               <a
                 href="https://www.instagram.com/ssszlma"
