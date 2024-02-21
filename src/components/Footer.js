@@ -2,7 +2,6 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
-  AiOutlineHome,
   AiFillInstagram,
 } from "react-icons/ai";
 
