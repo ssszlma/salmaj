@@ -85,9 +85,8 @@ function Projects() {
                 isBlog={false}
                 title="Comp programming"
                 description="A collection of some of my (weak) competitive programming solves."
-                ghLink="https://github.com/salmly/competitive-programming"
-                cflink="https://github.com"
-                lclink="https://leetcode.com/salmly/"
+                ghLink="https://github.com/mysalmly/competitive-programming"
+                cflink="https://codeforces.com/profile/mysalmly"
             />
 
           </Col>
