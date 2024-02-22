@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import {
   AiFillGithub,
+  AiOutlineHome,
   AiFillInstagram,
 } from "react-icons/ai";
 
@@ -26,7 +27,16 @@ function Footer() {
                 <AiFillGithub />
               </a>
             </li>
-
+            <li className="social-icons">
+              <a
+                href="https://salmaj.me"
+                style={{ color: "white" }}
+                target="_blank" 
+                rel="noopener noreferrer"
+              >
+                <AiOutlineHome />
+              </a>
+            </li>
             <li className="social-icons">
               <a
                 href="https://www.instagram.com/ssszlma"
