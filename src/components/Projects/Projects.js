@@ -75,7 +75,7 @@ function Projects() {
             <ProjectCard
                 isBlog={false}
                 title="Workplace"
-                description="Me and my teams' MIT Blueprint project. WOrkplace/Workspace is a drag & drop website creator which generates accurate html/css code for you."
+                description="Me and my teams' MIT Blueprint project. Workplace/Workspace is a drag & drop website creator which generates accurate html/css code for you."
                 ghLink="https://github.com/salmly/Jas."
             />
           </Col>
