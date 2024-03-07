@@ -67,6 +67,15 @@ function Projects() {
                 isBlog={false}
                 title="Jas"
                 description="An old discord.py starter template"
+                ghLink="https://github.com/mysalmly/blueprint_project_workplace"
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <ProjectCard
+                isBlog={false}
+                title="Workplace"
+                description="Me and my teams' MIT Blueprint project. WOrkplace/Workspace is a drag & drop website creator which generates accurate html/css code for you."
                 ghLink="https://github.com/salmly/Jas."
             />
           </Col>
